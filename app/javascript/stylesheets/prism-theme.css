@@ -67,7 +67,7 @@ code[class*=language-] {
 .token.constant,
 .token.property,
 .token.symbol {
-  color: #f8c555
+  color: #8d6205
 }
 
 .token.atrule,
